@@ -1,0 +1,32 @@
+Follow above the properties that will build the simple scope of project
+
+- Homepage {
+    - E-mail Input 
+    - Showcase Background
+    - Description of the platform
+}
+
+- User {
+    - Authentication and Register Systems (Authentication of the user)
+        - Email 
+        - Username 
+        - Password
+        - Videos already seen
+}
+
+- Podcast {
+    - Thumbnail Podcast Profile
+    - Title Podcast
+    - Description Podcast
+    - Category Podcast
+    - Amount Views
+    - Date Episode Uploaded       
+}
+
+
+- Podcast Episodes {
+    - Videos
+    - Titles 
+    - Views 
+}
+
