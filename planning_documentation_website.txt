@@ -12,6 +12,7 @@ Follow above the properties that will build the simple scope of project
         - Username 
         - Password
         - Videos already seen
+    - Edit Profile
 }
 
 - Podcast {
@@ -29,4 +30,3 @@ Follow above the properties that will build the simple scope of project
     - Titles 
     - Views 
 }
-
