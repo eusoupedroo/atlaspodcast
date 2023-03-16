@@ -1,7 +1,7 @@
 Follow above the properties that will build the simple scope of project
 
 - Homepage {
-    - E-mail Input 
+    - E-mail Input  
     - Showcase Background
     - Description of the platform
 }
