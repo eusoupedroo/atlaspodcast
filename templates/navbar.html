@@ -1,0 +1,39 @@
+{% load static %}
+<nav class="w-full flex justify-between items-center py-3 py-4 fixed z-50">
+
+    <!--NavBar Left Section -->
+    <div class="w-6/12">
+        <a href="#">
+           <img class="w-5/12" src="{% static 'images/logo.png' %}">
+        </a>
+    </div>
+
+    <!--NavBar Right Section -->
+    <div class="w-6/12 flex flex-nowrap justify-end">
+
+        <!--Search Bar -->
+        <div class="mr-2">
+            <form>
+               <input type="text" class="py-1 px-2 rounded-md text-black" placeholder="Pesquise aqui">
+            </form>
+        </div>
+        
+        <!-- Login Button  -->
+        <div class="mr-2">
+            <a href="#">
+                <button class="bg-emerald-400 text-white py-1 px-3 rounded-md">
+                    Acessar
+                </button>
+            </a>
+        </div>
+        
+        <!-- Edit Data of user Button  -->
+        <div class="mr-2">
+            <a href="#">
+                <button class="bg-emerald-400 text-white py-1 px-3 rounded-md">
+                    Editar Informações
+                </button>
+            </a>
+        </div>
+    </div>
+</nav>
